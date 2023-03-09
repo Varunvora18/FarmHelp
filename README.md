@@ -1,8 +1,8 @@
-# Commodity-Price-Predictor
+# FarmHelp
 To provide an accurate and an apt pricing model for a particular commodity to the user using different machine learning algorithms.
 
 <h2>Introduction</h2>
-In our mini project, Commodity Price Predictor allows the user of our application to obtain an accurate and an apt pricing model for a particular commodity. The backend of our website is done using Django. Currently we have the availability of three commodities:
+In our mini project, FarmHelp allows the user of our application to obtain an accurate and an apt pricing model for a particular commodity. The backend of our website is done using Django. Currently we have the availability of three commodities:
 1.	Cotton
 2.	Rice
 3.	Maize
